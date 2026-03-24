@@ -34,7 +34,7 @@ export default function Footer() {
           <div>
             <div className="mb-4">
               <img
-                src="/Gong/logo.png"
+                src="/logo.png"
                 alt="GONG, s.r.o."
                 className="h-10"
               />
