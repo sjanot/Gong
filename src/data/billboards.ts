@@ -24,7 +24,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "available",
     pricePerMonth: 95,
-    image: "/billboards/18-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/18-billboard-dolny-kubin-jpg.jpg",
   },
   {
     id: "c2",
@@ -34,7 +34,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/19-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/19-billboard-dolny-kubin-jpg.jpg",
   },
   {
     id: "c3",
@@ -44,7 +44,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/20-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/20-billboard-dolny-kubin-jpg.jpg",
   },
   {
     id: "c4",
@@ -54,7 +54,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/24-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/24-billboard-dolny-kubin-jpg.jpg",
   },
   {
     id: "c5",
@@ -64,7 +64,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/25-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/25-billboard-dolny-kubin-jpg.jpg",
   },
   {
     id: "c6",
@@ -74,7 +74,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/26A-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/26A-billboard-dolny-kubin-jpg.jpg",
   },
   {
     id: "c7",
@@ -84,7 +84,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/26B-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/26B-billboard-dolny-kubin-jpg.jpg",
   },
   {
     id: "c8",
@@ -94,7 +94,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/27-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/27-billboard-dolny-kubin-jpg.jpg",
   },
   {
     id: "c9",
@@ -104,7 +104,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/28-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/28-billboard-dolny-kubin-jpg.jpg",
   },
   {
     id: "c10",
@@ -114,7 +114,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/29-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/29-billboard-dolny-kubin-jpg.jpg",
   },
   {
     id: "c11",
@@ -124,7 +124,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/30-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/30-billboard-dolny-kubin-jpg.jpg",
   },
   {
     id: "c12",
@@ -134,7 +134,7 @@ export const billboards: Billboard[] = [
     category: "centrum",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/31-billboard-dolny-kubin-jpg.jpg",
+    image: "/Gong/billboards/31-billboard-dolny-kubin-jpg.jpg",
   },
   // OKOLIE - 14 billboardov (fotky #1-17 z originálu)
   {
@@ -146,7 +146,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°12'32.3\"N 19°15'34.3\"E",
     pricePerMonth: 95,
-    image: "/billboards/1-billboard-velicna-jpg.jpg",
+    image: "/Gong/billboards/1-billboard-velicna-jpg.jpg",
   },
   {
     id: "o2",
@@ -157,7 +157,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°12'32.3\"N 19°15'34.3\"E",
     pricePerMonth: 95,
-    image: "/billboards/2-billboard-velicna-jpg.jpg",
+    image: "/Gong/billboards/2-billboard-velicna-jpg.jpg",
   },
   {
     id: "o3",
@@ -168,7 +168,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°12'36.2\"N 19°16'06.7\"E",
     pricePerMonth: 95,
-    image: "/billboards/3-billboard-velicna-jpg.jpg",
+    image: "/Gong/billboards/3-billboard-velicna-jpg.jpg",
   },
   {
     id: "o4",
@@ -179,7 +179,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°12'36.2\"N 19°16'06.7\"E",
     pricePerMonth: 95,
-    image: "/billboards/4-billboard-velicna-jpg.jpg",
+    image: "/Gong/billboards/4-billboard-velicna-jpg.jpg",
   },
   {
     id: "o5",
@@ -190,7 +190,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°12'37.1\"N 19°16'08.5\"E",
     pricePerMonth: 95,
-    image: "/billboards/5-billboard-velicna-jpg.jpg",
+    image: "/Gong/billboards/5-billboard-velicna-jpg.jpg",
   },
   {
     id: "o6",
@@ -201,7 +201,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°12'37.1\"N 19°16'08.5\"E",
     pricePerMonth: 95,
-    image: "/billboards/6-billboard-velicna-jpg.jpg",
+    image: "/Gong/billboards/6-billboard-velicna-jpg.jpg",
   },
   {
     id: "o7",
@@ -212,7 +212,7 @@ export const billboards: Billboard[] = [
     status: "reserved",
     gps: "49°12'37.1\"N 19°16'08.5\"E",
     pricePerMonth: 95,
-    image: "/billboards/7-billboard-velicna-jpg.jpg",
+    image: "/Gong/billboards/7-billboard-velicna-jpg.jpg",
   },
   {
     id: "o8",
@@ -223,7 +223,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°12'33.4\"N 19°15'49.6\"E",
     pricePerMonth: 95,
-    image: "/billboards/8-billboard-velicna-jpg.jpg",
+    image: "/Gong/billboards/8-billboard-velicna-jpg.jpg",
   },
   {
     id: "o9",
@@ -234,7 +234,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°12'27.4\"N 19°15'08.7\"E",
     pricePerMonth: 95,
-    image: "/billboards/9-billboard-velicna-jpg.jpg",
+    image: "/Gong/billboards/9-billboard-velicna-jpg.jpg",
   },
   {
     id: "o10",
@@ -245,7 +245,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°12'33.4\"N 19°15'49.6\"E",
     pricePerMonth: 95,
-    image: "/billboards/11-billboard-velicna-jpg.jpg",
+    image: "/Gong/billboards/11-billboard-velicna-jpg.jpg",
   },
   {
     id: "o11",
@@ -256,7 +256,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°11'43.7\"N 19°12'01.3\"E",
     pricePerMonth: 95,
-    image: "/billboards/12-billboard-parnica-jpg.jpg",
+    image: "/Gong/billboards/12-billboard-parnica-jpg.jpg",
   },
   {
     id: "o12",
@@ -267,7 +267,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°08'28.3\"N 19°17'16.5\"E",
     pricePerMonth: 95,
-    image: "/billboards/16A-billboard-valaska-dubova-jpg.jpg",
+    image: "/Gong/billboards/16A-billboard-valaska-dubova-jpg.jpg",
   },
   {
     id: "o13",
@@ -279,7 +279,7 @@ export const billboards: Billboard[] = [
     gps: "49°08'28.3\"N 19°17'16.5\"E",
     illuminated: true,
     pricePerMonth: 100,
-    image: "/billboards/16B-billboard-valaska-dubova-jpg.jpg",
+    image: "/Gong/billboards/16B-billboard-valaska-dubova-jpg.jpg",
   },
   {
     id: "o14",
@@ -290,7 +290,7 @@ export const billboards: Billboard[] = [
     status: "occupied",
     gps: "49°13'51.1\"N 19°19'17.7\"E",
     pricePerMonth: 95,
-    image: "/billboards/17A-billboard-knazia-jpg.jpg",
+    image: "/Gong/billboards/17A-billboard-knazia-jpg.jpg",
   },
   // ĎALŠIE PLOCHY
   {
@@ -301,7 +301,7 @@ export const billboards: Billboard[] = [
     category: "dalsie",
     status: "occupied",
     pricePerMonth: 95,
-    image: "/billboards/ponuka-kralovany24-jpg.jpg",
+    image: "/Gong/billboards/ponuka-kralovany24-jpg.jpg",
   },
 ];
 

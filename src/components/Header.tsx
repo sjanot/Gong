@@ -20,7 +20,7 @@ export default function Header() {
         <div className="flex h-16 items-center justify-between">
           <a href="#" className="flex items-center">
             <img
-              src="/logo.png"
+              src="/Gong/logo.png"
               alt="GONG, s.r.o. — reklama, billboardy"
               className="h-10"
             />
