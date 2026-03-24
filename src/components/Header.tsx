@@ -18,18 +18,12 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-primary text-white shadow-lg">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
-          <a href="#" className="flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent font-bold text-primary-dark text-lg">
-              G
-            </div>
-            <div>
-              <div className="font-bold text-lg leading-tight">
-                GONG, s.r.o.
-              </div>
-              <div className="text-xs text-gray-300 leading-tight">
-                prenájom reklamných plôch
-              </div>
-            </div>
+          <a href="#" className="flex items-center">
+            <img
+              src="/Gong/logo.png"
+              alt="GONG, s.r.o. — reklama, billboardy"
+              className="h-10"
+            />
           </a>
 
           {/* Desktop nav */}

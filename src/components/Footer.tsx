@@ -32,11 +32,12 @@ export default function Footer() {
         <div className="grid gap-8 md:grid-cols-3">
           {/* Company info */}
           <div>
-            <div className="flex items-center gap-3 mb-4">
-              <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent font-bold text-primary-dark text-lg">
-                G
-              </div>
-              <div className="font-bold text-lg text-white">GONG, s.r.o.</div>
+            <div className="mb-4">
+              <img
+                src="/Gong/logo.png"
+                alt="GONG, s.r.o."
+                className="h-10"
+              />
             </div>
             <p className="text-sm text-gray-300 leading-relaxed">
               Prenájom reklamných plôch a billboardov v Dolnom Kubíne a okolí.
